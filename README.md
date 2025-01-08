@@ -1,0 +1,2 @@
+### From Scratch
+I am writing some machine learning algorithms from scratch (without using Scikit-learn, Pytorch or Tensorflow) in order to learn how they work behind the scenes, and just for fun as well.
